@@ -1,0 +1,7 @@
+__pycache__
+.idea
+build
+Last.SC2Replay
+prof*
+*.txt
+games
